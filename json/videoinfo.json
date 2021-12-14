@@ -1,0 +1,53 @@
+[
+  {
+    "title": "Basic squat",
+    "time": "12 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/basic-squat.mp4"
+  },
+  {
+    "title": "Dumbbell overhead squat",
+    "time": "14 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/overhead-dumbbell-squat.mp4"
+  },
+
+  {
+    "title": "Walking burpee squat",
+    "time": "12 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/walking-burpee-squat.mp4"
+  },
+  {
+    "title": "Single leg stability squat",
+    "time": "14 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/single-leg-stability-squat.mp4"
+  },
+  {
+    "title": "Sumo squat",
+    "time": "13 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/sumo-squat.mp4"
+  },
+  {
+    "title": "Deep side squat",
+    "time": "14 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/deep-side-squat.mp4"
+  },
+
+  {
+    "title": "Calf-activating squat",
+    "time": "11 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/calf-activating-squat.mp4"
+  },
+  {
+    "title": "Touch down squat jumps",
+    "time": "12 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://fitbritcollective.com/wp-content/uploads/2015/05/touch-down-squat-jumps.mp4"
+  }
+
+]
